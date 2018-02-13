@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SearchServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SearchServer_jar</output-path>
+    <root id="archive" name="SearchServer.jar">
+      <element id="module-output" name="SearchServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CommonObjects/out/artifacts/CommonObjects/CommonObjects.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
